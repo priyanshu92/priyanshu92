@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi!👋 I am Priyanshu Agrawal.
+
+- I work as a Software Engineer :computer: with GE Digital.
+
+- I am currently working on a product called [Asset Answers](https://www.ge.com/digital/documentation/asset-answers/index.html). It is a benchmarking application for Industrial IoT space. It helps customers to benchmark their Asset data against competitors.
+
+- I am currently learning about Kubernetes and Helm.
+
+- You can reach me via Twitter [@priyanshu1312](https://twitter.com/priyanshu1312) or email me at priyanshuagrawal@outlook.com.
+
+## Skillset
+Although, I have worked with many different languages, my primary tool of choice is .NET Core with C# for server side apps. On the frontend, I currently write apps in React but planning to change it soon to [Blazor](https://blazor.net).
+
+## Community Contributions
+- I have authored the following Visual Studio extensions.
+  - [Surround Selection](https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.SurroundSelection)
+  - [Async Method Name Fixer](https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.AsyncMethodNameFixer)
+- I have also contributed to [react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#contributors), a lightweight and fast tree select component for react.
+
+
 
 <!--
 **priyanshu92/priyanshu92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
