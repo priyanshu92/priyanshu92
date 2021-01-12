@@ -9,7 +9,7 @@
 - You can reach me via Twitter [@priyanshu1312](https://twitter.com/priyanshu1312) or email me at priyanshuagrawal@outlook.com.
 
 ## Skillset
-Although, I have worked with many different languages, my primary tool of choice is .NET with C# for server side apps. For the frontend, I currently use React but working to add [Blazor](https://blazor.net) to the mix as well.
+Although, I have worked with many different languages, my primary tool of choice is .NET with C# for server side apps. I use React to write frontend apps and working to add [Blazor](https://blazor.net) to the mix as well.
 
 ## Community Contributions
 - I have authored the following Visual Studio extensions.
