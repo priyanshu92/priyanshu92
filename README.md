@@ -1,6 +1,6 @@
 ### Hi!👋 I am Priyanshu Agrawal.
 
-- I work as a Software Engineer :computer: with GE Digital.
+- I am working as a Senior Software Engineer :computer: with GE Digital.
 
 - I am currently working on a product called [Asset Answers](https://www.ge.com/digital/documentation/asset-answers/index.html). It is a benchmarking application for Industrial IoT space. It helps customers to benchmark their Asset data against competitors.
 
