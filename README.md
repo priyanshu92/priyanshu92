@@ -1,4 +1,4 @@
-### Hi!👋 I am Priyanshu Agrawal.
+### Hi!👋
 
 - I am working as a Senior Software Engineer :computer: with GE Digital.
 
