@@ -18,6 +18,7 @@ Although, I have worked with many different languages, my primary tool of choice
 - I have also contributed to [react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#contributors), a lightweight and fast tree select component for react.
 
 
+https://github-readme-stats.vercel.app/api?username=priyanshu92&show_icons=true&count_private=true&theme=radical
 
 <!--
 **priyanshu92/priyanshu92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
