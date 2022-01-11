@@ -11,7 +11,7 @@
 ## Skillset
 Although, I have worked with many different languages, my primary tool of choice is .NET with C# for server side apps. I use React to write frontend apps and working to add [Blazor](https://blazor.net) to the mix as well.
 
-## Community Contributions
+## Open Source
 - I have authored the following Visual Studio extensions.
   - [Surround Selection](https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.SurroundSelection)
   - [Async Method Name Fixer](https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.AsyncMethodNameFixer)
