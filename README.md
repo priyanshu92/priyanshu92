@@ -1,10 +1,8 @@
 ### Hi!👋
 
-- I am working as a Senior Software Engineer :computer: with GE Digital.
+- I am working as a Software Engineer II :computer: with Microsoft.
 
-- I am currently working on a product called [Asset Answers](https://www.ge.com/digital/asset-answers). It is a benchmarking application for Industrial IoT space. It helps customers to benchmark their Asset data against competitors.
-
-- I am currently learning about CQRS and Event Driven Architecture.
+- I am part of Bing Frontend Platform Team. Our plaform is the ingress for Bing.com and is the frontend rendering layer powering UI for Bing including the new Bing Chat.
 
 - You can reach me via Twitter [@priyanshu1312](https://twitter.com/priyanshu1312) or email me at priyanshuagrawal@outlook.com.
 
