@@ -1,8 +1,6 @@
 ### Hi!👋
 
-- I am working as a Software Engineer II :computer: with Microsoft.
-
-- I am part of Bing Frontend Platform Team. Our plaform is the ingress for Bing.com and is the frontend rendering layer powering UI for Bing including the new Bing Chat.
+- I am working as a Software Engineer :computer: with Microsoft.
 
 - You can reach me via Twitter [@priyanshu1312](https://twitter.com/priyanshu1312) or email me at priyanshuagrawal@outlook.com.
 
